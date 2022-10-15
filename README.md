@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Tereshchenko Vlad (@Vl-Tershch)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vl-Tershch&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true" style="padding-top:23px;"/>
+
+### 👋 Hi, I’m Tereshchenko Vlad
+
 - 👀 I’m interested in Backend & Mobile Development
-
-<!-- - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
-
-<!---
-Vl-Tershch/Vl-Tershch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning Swift
+- 💻 I write code in Python, Java & Kotlin
+- 🎓 ITMO University Master Student
