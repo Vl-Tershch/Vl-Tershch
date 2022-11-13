@@ -7,3 +7,5 @@
 - 🌱 I’m currently learning Swift
 - 💻 I write code in Python, Java & Kotlin
 - 🎓 ITMO University Master Student
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Vl-Tershch&" alt="Vl-Tershch" /></p>
