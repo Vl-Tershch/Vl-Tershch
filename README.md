@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vl-Tershch&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true" style="padding-top:23px;"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vl-Tershch&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true&include_all_commits=true" style="padding-top:23px;"/>
 
 ### 👋 Hi, I’m Tereshchenko Vlad
 
